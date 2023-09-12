@@ -1,0 +1,20 @@
+*{
+    background-color: mediumpurple;
+}
+
+.btn_1{
+    background-color: greenyellow;
+    color: blue;
+    width: 110px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.btn_2{
+    background-color: #f7a6a6;
+    color: blue;
+    width: 110px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
