@@ -74,3 +74,13 @@ h4 {
 .menu_link:hover{
     opacity: 0.8;
 }
+
+
+h4{
+    font-size: 40px;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+}

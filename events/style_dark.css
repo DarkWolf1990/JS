@@ -1,7 +1,13 @@
 *{
-    background-color: mediumpurple;
-    margin: 0;
-    padding: 0;
+    background-color: #75655d;
+    /*margin: 0;*/
+    /*padding: 0;*/
+
+}
+body{
+    font-family: 'Calibri';
+    font-size: 20px;
+    color: white;
 
 }
 
@@ -59,4 +65,13 @@
 .close:hover{
     background-color: #f01a1a;
     color: green;
+}
+
+h4{
+    font-size: 40px;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
 }

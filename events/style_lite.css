@@ -1,0 +1,14 @@
+body{
+    font-family: 'Calibri';
+    font-size: 20px;
+    background-color: #a9aef7;
+}
+
+h4{
+    font-size: 40px;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+}
